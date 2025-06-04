@@ -1,16 +1,37 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**skybluesoda/skybluesoda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+CS Student @ [KMU](https://cs.kookmin.ac.kr/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+📖 Languages
+
+Python, JAVA, C++, Verilog, Arduino
+
+🛠️ Tools
+
+Pycharm, VSCode
+
+💻 OS
+
+macOS, Windows, Ubuntu
+
+✏️ Learning History
+
+Data Structures (Python)
+
+Numerical Analysis (Differential Equations & Modeling)
+
+Digital Logic Design (Verilog)
+
+C++ Programming
+
+Linear Algebra
+
+JAVA Programming
+
+Engineering Calculus
+
+Python Programming
+
+</div>
